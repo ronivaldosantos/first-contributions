@@ -30,6 +30,7 @@
 - [Cliff Gor](https://github.com/cliffgor)
 - Mike - Look at me! I'm a contrbuting member of society! (https://github.com/Michael-M-Mike)
 - [punchitchewie](https://github.com/punchitchewie)
+- Ronivaldo
 - Hariprasath
 - Mark - mark-nu
 - ankit kumar
